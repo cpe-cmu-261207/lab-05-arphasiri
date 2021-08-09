@@ -14,4 +14,4 @@ https://o365cmu-my.sharepoint.com/:b:/g/personal/chayanin_s_cmu_ac_th1/EaoCQG1WX
 
 เมื่อ Deploy app เรียบร้อยแล้ว ให้ใส่ URL ที่นี่ : 
 
-arphasirii.surge.sh
+http://arphasirii.surge.sh/
